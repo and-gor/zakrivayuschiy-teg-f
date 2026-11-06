@@ -1,1 +1,1 @@
-https://and-gor.github.io/zakrivayuschiy-teg-f/
+https://github.com/and-gor/zakrivayuschiy-teg-f
