@@ -1,1 +1,13 @@
 /* В этом файле будут храниться все значения переменных в исходном состоянии, а так же их изменения в зависимости от ширины устройства */
+:root {
+  --inter-font: 'Inter', monospace;
+  --press-start-font: 'PressStart2P', monospace;
+  --card-title-weight: 785px;
+  --card-text-weight: 400px;
+  --page-background:
+    repeating-linear-gradient(to right, #d3d3d3, transparent 2px),
+    repeating-linear-gradient(to bottom, #d3d3d3, transparent 2px),
+    repeating-linear-gradient(to bottom, #e7e7e7, #1a1a1a);
+  --contour: #000;
+  --sparks: #FF0000;
+}
